@@ -48,6 +48,12 @@ body {
 
 /* MEDIA CONTENT*/
 
+a {
+   display: inline-block;
+   width: inherit;
+   height: inherit;
+   cursor: pointer;
+}
 .india {
    display: inline-block;
    height: 200px;
@@ -144,6 +150,7 @@ body {
    border: 3px groove #9c9c9c;
    border-radius: 5px;
 }
+
 
 /* FOOTER */
 
