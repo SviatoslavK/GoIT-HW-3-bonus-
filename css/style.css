@@ -58,7 +58,7 @@ a {
    display: inline-block;
    height: 200px;
    width: 270px;
-   margin: 2px 0 50px 67px;
+   margin: 0 0 50px 67px;
    color: #e6e6e6;
    font-size: 18px;
    text-align: center;
@@ -74,7 +74,7 @@ a {
    display: inline-block;
    height: 200px;
    width: 270px;
-   margin: 2px 0 50px 7px;
+   margin: 0 0 50px 7px;
    color: #e6e6e6;
    font-size: 18px;
    text-align: center;
@@ -90,7 +90,7 @@ a {
    display: inline-block;
    height: 201px;
    width: 270px;
-   margin: 2px 0 50px 7px;
+   margin: 0 0 50px 7px;
    color: #e6e6e6;
    font-size: 18px;
    text-align: center;
